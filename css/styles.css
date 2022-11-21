@@ -6,10 +6,13 @@
 @import url("components/status-bar.css");
 @import url("components/nav-bar.css");
 @import url("components/screen-header.css");
+@import url("components/user-component.css");
 
 /* Screens */
 @import url("screens/login.css");
+@import url("screens/friends.css");
 
 body {
+  color: #2e363e;
   font-family: "Open Sans", sans-serif;
 }
