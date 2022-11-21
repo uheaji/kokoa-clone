@@ -1,0 +1,9 @@
+.more-screen .icon-row {
+  margin-top: 35px;
+}
+
+.more-seggestions {
+  /* margin-top: px; */
+  padding-top: 20px;
+  border-top: var(--main-border);
+}
