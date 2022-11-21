@@ -7,6 +7,7 @@
 @import url("components/nav-bar.css");
 @import url("components/screen-header.css");
 @import url("components/user-component.css");
+@import url("components/badge.css");
 
 /* Screens */
 @import url("screens/login.css");
@@ -15,4 +16,8 @@
 body {
   color: #2e363e;
   font-family: "Open Sans", sans-serif;
+}
+
+.main-screen {
+  padding: 0px var(--horizontal-space);
 }
