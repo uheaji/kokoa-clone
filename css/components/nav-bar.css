@@ -2,7 +2,7 @@
   position: fixed;
   bottom: 0;
   width: 100%;
-  background-color: #f9f9fa;
+  background-color: #cad2c5;
   padding: 20px 50px;
   /* box-sizing: border-box를 사용하면 box의 크기를 유지한 채 padding을 줄 수 있음.*/
   box-sizing: border-box;
@@ -15,7 +15,7 @@
 }
 
 .nav__link {
-  color: #2e363e;
+  color: #2f3e46;
   position: relative;
 }
 
