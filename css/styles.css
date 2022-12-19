@@ -13,6 +13,7 @@
 @import url("components/alt-screen-header.css");
 @import url("components/mouse-stalker.css");
 @import url("components/snow.css");
+@import url("components/no-mobile.css");
 
 /* Screens */
 @import url("screens/login.css");
